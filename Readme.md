@@ -1,4 +1,4 @@
-# WebService back-kushki
+# WebService back
 Proyecto desarrollado en nodeJs para consumirlo localmente
 
 ## Requisitos
